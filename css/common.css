@@ -303,7 +303,7 @@
     margin-right: 45px;
     display: block;
     float: left;
-    background: #ff6700 url(../img/mi.png) center center no-repeat;
+    background: #ff6700 url(../img/icons/mi.png) center center no-repeat;
 }
 
 .page-nav .nav .nav-item{
@@ -401,7 +401,7 @@
 .slider-nav{
     position: absolute;
     width: 200px;
-    height: 412px;
+    height: 410px;
     border: 1px solid #ff6700;
     background-color: #fff;
     right: 5px;
@@ -436,7 +436,7 @@
 .slider-nav .slider-pop{
     position: absolute;
     width: 792px;
-    height: 450px;
+    height: 448px;
     left: 201px;
     top: 0;
     border: 1px solid #e0e0e0;
@@ -525,12 +525,12 @@
     float: left;
     cursor: pointer;
     background-color: #fff;  
-    background: #fff url(../img/search.png) center center no-repeat;
+    background: #fff url(../img/icons/search.png) center center no-repeat;
     background-size: 25px 25px;
 }
 
 .page-nav .search .btn:hover{
-    background-image: url(../img/search2.png);
+    background-image: url(../img/icons/search2.png);
 }
 
 .search:hover .q,
